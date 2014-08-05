@@ -1,0 +1,7 @@
+1. vim ~/.bashrc_profile
+2. add line "source <path_to_hist>"
+
+usage:
+
+using command hist to get the cmd history.
+using !<number_listed> to redo the command
